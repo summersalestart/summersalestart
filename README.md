@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/FakePancak3/novum">
-    <img src="https://img.shields.io/badge/Novum-An_autoclicker_built_with_Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Novum-An_autoclicker_built_with_Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /p>
   </a>
   <a href="https://github.com/FakePancak3/oneclean">
     <img src="https://img.shields.io/badge/Oneclean-A_CLI_based_folder_cleaner-3776AB?style=for-the-badge&logo=python&logoColor=white" />
