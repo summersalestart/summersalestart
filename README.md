@@ -18,19 +18,19 @@
 <h2 align="center">My favorite projects 💻</h2>
 
 <p align="center">
-  <a href="https://github.com/FakePancak3/novum">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FakePancak3&repo=novum&theme=dark" />
+  <a href="https://github.com/summersalestart/novum">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=summersalestart&repo=novum&theme=dark" />
   </a>
-  <a href="https://github.com/FakePancak3/oneclean">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FakePancak3&repo=oneclean&theme=dark" />
+  <a href="https://github.com/summersalestart/oneclean">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=summersalestart&repo=oneclean&theme=dark" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/FakePancak3/takeabreak">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FakePancak3&repo=takeabreak&theme=dark" />
+  <a href="https://github.com/summersalestart/takeabreak">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=summersalestart&repo=takeabreak&theme=dark" />
   </a>
-  <a href="https://github.com/FakePancak3/alwaysontop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FakePancak3&repo=alwaysontop&theme=dark" />
+  <a href="https://github.com/summersalestart/alwaysontop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=summersalestart&repo=alwaysontop&theme=dark" />
   </a>
 </p>
 
