@@ -19,17 +19,18 @@
 
 <p align="center">
   <a href="https://github.com/FakePancak3/novum">
-    <img src="https://img.shields.io/badge/Novum-An_autoclicker_built_with_Python-3776AB?style=for-the-badge&logo=python&logoColor=white" </p>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FakePancak3&repo=novum&theme=dark" />
   </a>
   <a href="https://github.com/FakePancak3/oneclean">
-    <img src="https://img.shields.io/badge/Oneclean-A_CLI_based_folder_cleaner-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="https://github.com/FakePancak3/takeabreak">
-    <img src="https://img.shields.io/badge/TakeABreak-Look_away_screen_reminder-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FakePancak3&repo=oneclean&theme=dark" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/FakePancak3/takeabreak">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FakePancak3&repo=takeabreak&theme=dark" />
+  </a>
   <a href="https://github.com/FakePancak3/alwaysontop">
-    <img src="https://img.shields.io/badge/AlwaysOnTop-Force on top attribute-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FakePancak3&repo=alwaysontop&theme=dark" />
   </a>
 </p>
 
