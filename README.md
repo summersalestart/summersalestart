@@ -28,6 +28,10 @@
     <img src="https://img.shields.io/badge/TakeABreak-Look_away_screen_reminder-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
 </p>
+  <a href="https://github.com/FakePancak3/alwaysontop">
+    <img src="https://img.shields.io/badge/AlwaysOnTop-Force on top attribute-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=summersalestart&theme=dark" width="48%" />
