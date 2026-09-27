@@ -19,18 +19,16 @@
 
 <p align="center">
   <a href="https://github.com/summersalestart/novum">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=summersalestart&repo=novum&theme=dark" />
+    <img src="https://img.shields.io/badge/Novum-An_autoclicker_built_with_Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Novum" />
   </a>
   <a href="https://github.com/summersalestart/oneclean">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=summersalestart&repo=oneclean&theme=dark" />
+    <img src="https://img.shields.io/badge/Oneclean-A_CLI_based_folder_cleaner-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Oneclean" />
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/summersalestart/takeabreak">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=summersalestart&repo=takeabreak&theme=dark" />
+    <img src="https://img.shields.io/badge/TakeABreak-Look_away_screen_reminder-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="TakeABreak" />
   </a>
   <a href="https://github.com/summersalestart/alwaysontop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=summersalestart&repo=alwaysontop&theme=dark" />
+    <img src="https://img.shields.io/badge/AlwaysOnTop-Force_on_top_attribute-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="AlwaysOnTop" />
   </a>
 </p>
 
